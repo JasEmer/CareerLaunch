@@ -1,0 +1,3 @@
+This is a web application my team and I created for Break Through Tech's 2024 cohort of Career Launch in the University of Maryland. It is intended to assist University of Maryland students in tracking their nutrition, broken down into four categories: calories, carbohydrates, fats, and protein. The application utilizes the UMD Dining Hall Menu to retrieve food and nutritional information to present to users in a more digestible format, reducing the time and difficulty involved in tracking their nutrition on campus manually.
+
+The backend used Python, while the front-end utilized HTML, CSS, and Javascript.  We used Flask and Beautiful Soup to make it.
